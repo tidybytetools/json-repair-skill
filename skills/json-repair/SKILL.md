@@ -1,6 +1,7 @@
 ---
 name: json-repair
 description: Repair broken JSON from AI chats, logs, or exports (trailing commas, smart quotes, comments, single quotes, unquoted keys, markdown fences, truncated brackets, Python True/False/None). Use when the user pastes or shares JSON that fails to parse, or asks to fix, clean, or validate JSON.
+license: MIT
 ---
 
 # Repair broken JSON
