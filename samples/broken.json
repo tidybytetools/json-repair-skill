@@ -1,0 +1,10 @@
+Here is the payload:
+
+```json
+{
+  name: 'Ada Lovelace',
+  "active": True,
+  "email": "ada@example.com",  // work email
+  "tags": ["math", "programming",],
+}
+```

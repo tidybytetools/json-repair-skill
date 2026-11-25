@@ -1,0 +1,12 @@
+{
+  "name": "tidybytetools-skills",
+  "description": "Small data-cleanup skills from Tidy Byte Tools",
+  "owner": { "name": "Tidy Byte Tools" },
+  "plugins": [
+    {
+      "name": "json-repair-skill",
+      "source": "./",
+      "description": "Repair broken JSON from AI chats and exports. Python 3.9+, no installs, files stay on your computer."
+    }
+  ]
+}

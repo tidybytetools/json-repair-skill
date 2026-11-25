@@ -1,0 +1,10 @@
+{
+  "name": "json-repair-skill",
+  "description": "Repair broken JSON from AI chats and exports: trailing commas, smart quotes, comments, single quotes, unquoted keys, markdown fences, and missing brackets. Python 3.9+, no installs.",
+  "version": "1.0.0",
+  "author": { "name": "Tidy Byte Tools", "url": "https://tidybytetools.github.io" },
+  "homepage": "https://tidybytetools.github.io",
+  "repository": "https://github.com/tidybytetools/json-repair-skill",
+  "license": "MIT",
+  "keywords": ["json", "json-repair", "data-cleaning", "claude-code", "agent-skill"]
+}
