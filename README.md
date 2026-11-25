@@ -43,6 +43,7 @@ This is a best-effort fixer, not a full JSON5 parser. It never invents keys or v
 
 - The same repair, as a local command-line tool and MCP server: [`pip install json-repair-lite`](https://pypi.org/project/json-repair-lite/)
 - This is one of 8 skills in the [Agent Data Skills Pack](https://tidybyte.gumroad.com/l/agent-data-skills) ($1+, suggested $7): CSV profile, CSV diff, fix garbled characters, split CSV, flatten JSON, redact personal data, chunk Markdown.
+- No agent? Paste broken JSON into the free [Fix Broken JSON page](https://huggingface.co/spaces/runescapeprivateservers/fix-broken-json), or use the pay-per-use [JSON Repair on Apify](https://apify.com/tidybytetools/json-repair) ($0.001 per document).
 - Website: https://tidybytetools.github.io
 
 MIT license. Made by Tidy Byte Tools.
